@@ -1,0 +1,11 @@
+{
+  "name": "django-social",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python manage.py runserver"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
